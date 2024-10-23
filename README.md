@@ -22,19 +22,19 @@ The server will run on http://localhost:3000 by default.
   
   II . GET /transactions
 
-   ![image alt]() 
+   ![image alt](https://github.com/chandrasekhar-99/Expense-Tracker-API/blob/076f646044096dda32e94f106e4e7d060a8ab576/get%20all%20transactions.png) 
    
   III . GET /transactions/:id
 
-   ![image alt]() 
+   ![image alt](https://github.com/chandrasekhar-99/Expense-Tracker-API/blob/076f646044096dda32e94f106e4e7d060a8ab576/get%20by%20id.png) 
    
   IV . PUT /transactions/:id
 
-   ![image alt]() 
+   ![image alt](https://github.com/chandrasekhar-99/Expense-Tracker-API/blob/076f646044096dda32e94f106e4e7d060a8ab576/put%20by%20id.png) 
    
   V . DELETE /transactions/:id
 
-   ![image alt]() 
+   ![image alt](https://github.com/chandrasekhar-99/Expense-Tracker-API/blob/076f646044096dda32e94f106e4e7d060a8ab576/delete%20by%20id.png) 
 
    
    
