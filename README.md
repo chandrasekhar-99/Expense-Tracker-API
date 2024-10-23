@@ -1,7 +1,7 @@
 1.Setup and Run Instructions:
 
 -> clone the project by run the following commands:
-    git clone https://github.com/chandrasekhar-99/Expense-Tracker-API.git
+        git clone https://github.com/chandrasekhar-99/Expense-Tracker-API.git
         cd Expense-Tracker-API
             npm install (to install necessary dependencies)
 
