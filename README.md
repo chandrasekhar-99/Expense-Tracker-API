@@ -9,8 +9,13 @@
         npm install (to install necessary dependencies)
 
 2.Setup and Environmaent variables:
+
   PORT = 3000 (API will run on this port)
+  
   MONGO_URI = mongodb://127.0.0.1:27017/transactions (replave with your actual MONOGO DB string)
+
+
+  
 
 3.Run Applicaion and Start server by using this command:
   npm start 
