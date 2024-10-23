@@ -1,9 +1,9 @@
 1.Setup and Run Instructions:
 
 -> clone the project by run the following commands
-    git clone https://github.com/chandrasekhar-99/Expense-Tracker-API.git
-    cd Expense-Tracker-API
-    npm install (to install necessary dependencies)
+    .git clone https://github.com/chandrasekhar-99/Expense-Tracker-API.git
+    .cd Expense-Tracker-API
+    .npm install (to install necessary dependencies)
 
 2.Setup and Environmaent variables:
   PORT = 3000 (API will run on this port)
