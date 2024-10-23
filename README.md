@@ -16,6 +16,7 @@ The server will run on http://localhost:3000 by default.
 
 
 4.API Documntation:
+
   I . POST /transactions: Adds a new transaction
 
   ![image alt](https://github.com/chandrasekhar-99/Expense-Tracker-API/blob/c5fc75a3482fac34b3a31891c22292f566905811/post%20transaction.png) 
